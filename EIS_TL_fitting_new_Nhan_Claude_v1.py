@@ -4,7 +4,6 @@ Frequency-aware EIS rolling fitting with Excel export
 Robust for TLM-like spectra
 
 Author: Nhan Pham
-Improved by: Claude (v1)
   - Vectorized rolling fits (sliding_window_view) for ~5-15x speedup
   - HFR_FREQ_RANGE filter in select_hfr_auto for accuracy
   - Per-window linregress in select_tl_midhigh for accuracy
