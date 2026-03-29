@@ -37,7 +37,7 @@ plt.rcParams.update({
 # ====================== USER PARAMETERS =====================
 # ============================================================
 
-DATA_FOLDER = r"Y:\5900\HydrogenTechFuelCellsGroup\CO2R\Nhan P\Experiments\CO2 Cell Testing\TS2\2NP65_Sustainion_HighShearGDE_200mA\NonFaradaic EIS"
+DATA_FOLDER = r"copy path here"
 CELL_AREA_CM2 = 25
 WINDOW_POINTS = 5
 
